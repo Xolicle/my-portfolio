@@ -1,0 +1,21 @@
+.nav {
+  border: 1px solid red;
+  display: flex;
+  /* gap: 30; */
+  /* justify-content: space-around; */
+  /* align-items: center;  */
+  background-color: #000;
+}
+.navItem {
+  border: 1px solid red;
+  width: 47.5rem;
+  justify-content: space-between;
+  margin: auto;
+}
+.logo {
+  /* border: 1px solid red; */
+  /* width: 50px; */
+}
+.nav-link .nav-toggl-icon {
+  color: #fff !important;
+}
